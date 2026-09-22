@@ -1,0 +1,17 @@
+# Runtime user uploads (not part of source)
+uploads/
+
+# Font Awesome Pro (commercial license, unused in app)
+css/fontawesome/
+css/fontawesome.css
+
+# OS / editor junk
+Thumbs.db
+.DS_Store
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
